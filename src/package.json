@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "animate.css": "^3.5.2",
+    "vuex": "^2.4.0"
+  }
+}
